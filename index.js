@@ -18,6 +18,7 @@ app.use(cors());
 app.use('/assets', express.static(path.join(__dirname, 'public/assets')));
 
 app.get("/", (req, res) => {
+    // this funtion was creating bugs so has been left out for now
     // let repoInfo;
     // axios({
     //     method: "get",
