@@ -26,6 +26,7 @@
   --body-color: hsl(var(--second-hue), 48%, 8%);
   --container-color: hsl(var(--second-hue), 32%, 12%);
   --container-dark-color: hsl(var(--second-hue), 32%, 8%);
+  --scrollbar-bg-color: hsl(var(--second-hue), 8%, 66%);
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
